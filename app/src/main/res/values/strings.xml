@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">API_Weather_Data_Country_State_Codes</string>
+
+    <string name="placeholder_api">"https://jsonplaceholder.typicode.com/posts"</string>
+
+    <string name="weather_key">"a847de79ed9e5152022f478c2675fdf2"</string>
+    <string name="weather_api">"https://api.openweathermap.org/data/2.5/weather?"</string>
+</resources>
